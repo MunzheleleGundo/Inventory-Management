@@ -1,0 +1,8 @@
+How to view the project
+
+Step 1 : Unzip the folder
+Step 2 : Open netbeans 
+Step 3 : go to file and select Open project
+step 4 : Open your project
+Step 5 : implement your parts and send back to the group
+Step 6 : Thank you
